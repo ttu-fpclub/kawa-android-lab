@@ -1,6 +1,10 @@
 
 ## Android Support Library ##
 
+*NOTE: If you're reading this for the lab, it's not necessary. This is additional information that's for
+people who want to develop full-fledged Android apps in Kawa later on. We won't be using any of this for
+Thursday's lab, so don't worry about it unless you really want to.*
+
 As it turns out, linking with the Android Support Library is more complicated than you would think. So I'm
 including these instructions in the hopes that it helps everyone else figure it out. We won't be going over
 this in the lab because it's a really messy sequence of steps that takes a little while to get right.
