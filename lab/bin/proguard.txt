@@ -1,0 +1,30 @@
+# view AndroidManifest.xml #generated:9
+-keep class com.example.calculator.calculator { <init>(...); }
+
+# onClick res/layout/main.xml #generated:101
+# onClick res/layout/main.xml #generated:108
+# onClick res/layout/main.xml #generated:115
+# onClick res/layout/main.xml #generated:122
+# onClick res/layout/main.xml #generated:129
+# onClick res/layout/main.xml #generated:136
+# onClick res/layout/main.xml #generated:143
+# onClick res/layout/main.xml #generated:150
+# onClick res/layout/main.xml #generated:157
+# onClick res/layout/main.xml #generated:164
+# onClick res/layout/main.xml #generated:171
+# onClick res/layout/main.xml #generated:178
+# onClick res/layout/main.xml #generated:185
+# onClick res/layout/main.xml #generated:192
+# onClick res/layout/main.xml #generated:24
+# onClick res/layout/main.xml #generated:31
+# onClick res/layout/main.xml #generated:38
+# onClick res/layout/main.xml #generated:45
+# onClick res/layout/main.xml #generated:52
+# onClick res/layout/main.xml #generated:59
+# onClick res/layout/main.xml #generated:66
+# onClick res/layout/main.xml #generated:73
+# onClick res/layout/main.xml #generated:80
+# onClick res/layout/main.xml #generated:87
+# onClick res/layout/main.xml #generated:94
+-keepclassmembers class * { *** onClick(...); }
+
