@@ -34,6 +34,7 @@ public final class R {
         public static final int main_act=0x7f050000;
         public static final int mul=0x7f050011;
         public static final int neg=0x7f050019;
+        public static final int pi=0x7f05001c;
         public static final int pop=0x7f050005;
         public static final int rtrv=0x7f050004;
         public static final int sin=0x7f05000b;

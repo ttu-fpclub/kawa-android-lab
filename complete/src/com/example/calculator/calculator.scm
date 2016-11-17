@@ -144,4 +144,8 @@
            (addListener R:id:dec   (lambda () (unless (hasDecimal)
                                                       (addText "."))))
            (addListener R:id:eval  (lambda () (enterKey)))
+           (addListener R:id:pi (lambda ()
+                                  (enterKey)
+                                  (pushStack java.lang.Math:PI)))
            R:layout:main))
+
